@@ -2,7 +2,6 @@
 
 A powerful agentic AI system for patent trend analysis and future technology prediction using Ollama, OpenSearch, and CrewAI.
 
-[![Product Research AI Agent](https://img.shields.io/badge/Product%20Research%20AI%20Agent-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/watch?v=uhWXMrpS8Gg&list=PL0x86ZW374m3yeuDQ0iJ7KWRoYo1RqhvF)
 
 ## Overview
 
